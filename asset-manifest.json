@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/list-of-users-test-task/static/css/main.f0ac8822.css",
+    "main.js": "/list-of-users-test-task/static/js/main.0263cea4.js",
+    "index.html": "/list-of-users-test-task/index.html",
+    "main.f0ac8822.css.map": "/list-of-users-test-task/static/css/main.f0ac8822.css.map",
+    "main.0263cea4.js.map": "/list-of-users-test-task/static/js/main.0263cea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ac8822.css",
+    "static/js/main.0263cea4.js"
+  ]
+}

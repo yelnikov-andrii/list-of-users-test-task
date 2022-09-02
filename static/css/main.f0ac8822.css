@@ -1,0 +1,2 @@
+.App{display:flex;justify-content:center;margin:0 auto;max-width:1200px}.title{text-align:center}.list{list-style:none;width:40%}.list--posts{width:100%}.list__item{display:flex;margin-bottom:10px}.list__item-txt{display:inline-block;margin-right:10px;width:200px}.list__item-link{align-items:center;background-color:green;border:none;border-radius:4px;color:#fbeded;display:flex;height:30px;justify-content:center;outline:none;text-decoration:none;width:80px}.list__item-link:nth-child(2){margin-right:10px}
+/*# sourceMappingURL=main.f0ac8822.css.map*/
