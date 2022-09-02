@@ -1,0 +1,48 @@
+.App {
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.list {
+  width: 40%;
+  list-style: none;
+
+  &--posts {
+    width: 100%;
+  }
+
+  &__item {
+    margin-bottom: 10px;
+    display: flex;
+
+    &-txt {
+      margin-right: 10px;
+      width: 200px;
+      display: inline-block;
+    }
+
+    &-link {
+      width: 80px;
+      height: 30px;
+      border-radius: 4px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: green;
+      color: #fbeded;
+      text-decoration: none;
+      outline: none;
+      border: none;
+      
+      &:nth-child(2) {
+        margin-right: 10px;
+      }
+    }
+  }
+}
